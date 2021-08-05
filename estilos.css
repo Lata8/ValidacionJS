@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: url(https://www.mdirector.com/wp-content/uploads/2021/02/DesingWeb.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.contenido {
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-left: 25rem;
+    margin-top: 20rem;
+    background: #fff;
+    width: 250px;
+    height: 280px;
+    border-radius: 15px;
+    
+}
+
+.contenido h1{
+    font-family: serif;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.cont input{
+    margin-top: 15px;
+    width: 200px;
+    height: 20px;
+    border: none;
+    border-bottom: 1px solid #188;
+    outline: none;
+}
+
+button{
+    margin-top: 20px;
+    width: 205px;
+    height: 30px;
+    font-size: 20px;
+    font-family: monospace;
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #188, #166 );
+    color: #fff;
+}
+
+#control{
+    display: block;
+    margin-top: 10px;
+    color: #822;
+    font-size: 15px;
+}
